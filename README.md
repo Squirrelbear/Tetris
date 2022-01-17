@@ -16,6 +16,8 @@
 
 This document will explain the fundamentals of how the Tetris game works. 
 
+- ([Youtube Demo](https://youtu.be/8Sry1YbaXWY))
+
 # 1.3 The Rules of Tetris
 
 Tetris is a game where blocks fall from above and stack into a grid. The following list defines the core
